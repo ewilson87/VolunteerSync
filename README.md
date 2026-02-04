@@ -30,13 +30,13 @@ Security was treated as a priority throughout the project. Authentication is han
 
 Overall, VolunteerSync was built to be more than just a functional capstone project. The goal was to design something that reflects how a real-world, production-ready volunteer platform would actually be built. It demonstrates clean architecture, role-based security, performance awareness, and a real use case that comes directly from my own experience.
 
-GIT URLS:	
+# GIT URLS:	
 
     Project Portfolio: https://github.com/ewilson87/VolunteerSync
     Back-end API: https://github.com/ewilson87/VolunteerSync-API/tree/main
     Front-end Angular: https://github.com/ewilson87/VolunteerSync-Angular-Frontend/tree/main
 
-Screencast URLS:	
+# Screencast URLS:	
 
     YouTube VolunteerSync Playlist (All Milestones): https://www.youtube.com/playlist?list=PLsicDUNz539oU69jqgdwGfWyBzUrsYafJ
     Milestone 3 (November 23rd, 2025): https://youtu.be/A95dBOsipZ4
